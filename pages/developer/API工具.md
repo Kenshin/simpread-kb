@@ -1,10 +1,10 @@
 alias:: tools
 
-- #+BEGIN_NOTE
+- #+BEGIN_TIP
   以下的工具涵盖了 `iOS` `Android` `Windows` `Mac` 平台，通过这些工具，你可以将 **URL 发送到简悦的稍后读**。
-  #+END_NOTE
+  #+END_TIP
 - # 描述
-	- 下面这些工具来自 [简悦社区](https://t.me/simpreadgroup) 和官方开放，同时需要 [[开通开放平台]]。
+	- 下面这些工具来自 [简悦社区](https://t.me/simpreadgroup) 和官方开发，同时需要 [[开通开放平台]]。
 - # 收藏助手
   id:: 61f63f40-eebd-4649-a311-74059d48a715
 	- #+BEGIN_TIP
@@ -16,10 +16,10 @@ alias:: tools
 		- 将任意 URLs 发送给[@simpread_bot](https://t.me/simpread_bot) 自动保存到你的稍后读，支持 ((61f621a7-386a-4d75-8c2d-d83db7400a68))。
 	- ## 如何使用
 	  
-	  #+BEGIN_NOTE
+	  #+BEGIN_TIP
 	  1. 详细教程可以看 [如何玩转 Telegram bot](https://github.com/Kenshin/simpread/discussions/2792)。
 	  2. 调用失败的 [解决方案汇总](https://github.com/Kenshin/simpread/discussions/2919)。
-	  #+END_NOTE
+	  #+END_TIP
 		- 添加 [@simpread_bot](https://t.me/simpread_bot)
 		- 使用 `/token xxxx` 来绑定你的 Token ((61f4e352-67e3-4ada-82c9-e8c9b1f30bcd))
 		- 发送包含 URLs 的内容给它，它就会自动帮你整理到网盘。
