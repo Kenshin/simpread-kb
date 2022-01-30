@@ -1,13 +1,17 @@
+alias:: tools
+
 - #+BEGIN_NOTE
   以下的工具涵盖了 `iOS` `Android` `Windows` `Mac` 平台，通过这些工具，你可以将 **URL 发送到简悦的稍后读**。
   #+END_NOTE
 - # 描述
 	- 下面这些工具来自 [简悦社区](https://t.me/simpreadgroup) 和官方开放，同时需要 [[开通开放平台]]。
 - # 收藏助手
+  id:: 61f63f40-eebd-4649-a311-74059d48a715
 	- #+BEGIN_TIP
 	    服务器端行为，**不经过同步助手，即可将任意导入的 URL**，支持 ((61f621a7-386a-4d75-8c2d-d83db7400a68))，详细请看 [[收藏助手]] 。
 	  #+END_TIP
 - # Telegram Bot
+  id:: 61f63f40-e012-4800-b29c-7164dd632457
 	- ## 说明
 		- 将任意 URLs 发送给[@simpread_bot](https://t.me/simpread_bot) 自动保存到你的稍后读，支持 ((61f621a7-386a-4d75-8c2d-d83db7400a68))。
 	- ## 如何使用
@@ -20,6 +24,7 @@
 		- 使用 `/token xxxx` 来绑定你的 Token ((61f4e352-67e3-4ada-82c9-e8c9b1f30bcd))
 		- 发送包含 URLs 的内容给它，它就会自动帮你整理到网盘。
 # 快捷指令
+id:: 61f63f40-a4e7-496e-99bc-45395f8561e0
 	- > 开发者来自社区的 [Easycat 废柴](https://t.me/Orz_3_s_father)。
 	- ## 说明
 		- 在 iOS 系统上，通过分享给快捷指令，保存到你的稍后读，暂不支持 ((61f621a7-386a-4d75-8c2d-d83db7400a68))。
@@ -27,6 +32,7 @@
 		- [快速添加到简悦](https://www.icloud.com/shortcuts/0ffc62f9bf7c419ab1e769ab89a10fde)
 		- [完整添加到简悦](https://www.icloud.com/shortcuts/5362ad74759f4e5fae5f48e3ec92a5f8)
 - # Popclip 插件
+  id:: 61f63f40-147b-40c6-be95-68c6c41a3d68
 	- > 开发者来自社区的 [lyserenity](https://t.me/lyserenity)。
 	- ## 说明
 		- 将任意通过 Popcip 划取的包含链接内容发送到简悦的稍后读，暂不支持 ((61f621a7-386a-4d75-8c2d-d83db7400a68))。
