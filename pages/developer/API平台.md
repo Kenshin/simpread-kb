@@ -4,7 +4,9 @@ alias:: platform
   简悦 API 系统现在支持 [ifttt](https://ifttt.com/) · [zapier](https://zapier.com/) · [integrately](https://integrately.com/?ref=62pcvo) · [integromat](https://www.integromat.com/) 以及任意支持自动化的服务。
   #+END_TIP
 - # IFTTT
+  id:: 61f6701e-8ea2-499b-b7b2-3504d532f5b2
 	- 利用  ((61f63f40-1e3e-41c3-a748-ffc772276346)) 可连接 IFTTT 的服务以达到导入到简悦 · 稍后读的目的。
+	  id:: 61f6701e-565c-4c7c-893a-3cc594ac73d7
 	- ## 例子
 		- [利用简悦 Webhook 将 Instatpaper 的数据导入到简悦](https://github.com/Kenshin/simpread/discussions/3034)
 - # Zapier

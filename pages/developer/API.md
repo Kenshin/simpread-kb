@@ -65,7 +65,7 @@
 	  ```
 - # 添加 /webhook
   id:: 61f64ae4-1126-47d6-a4fe-cc22ed5b844a
-	- > 与 ((61f64711-9c15-4ea6-8015-400c5a8012f3)) 类似，区别是 token 由 `query` 携带而非 `headers`。主要用于一些可以使用 Webhook 的场合，如 **IFTTT**，更多例子可以看 ((61f642c6-d323-4296-9185-f25138a57fd6))。
+	- > 与 ((61f64711-9c15-4ea6-8015-400c5a8012f3)) 类似，区别是 token 由 `query` 携带而非 `headers`。主要用于一些可以使用 Webhook 的场合，如 **IFTTT**，更多例子可以看 ((61f6701e-565c-4c7c-893a-3cc594ac73d7))
 	  
 	  ```bash
 	  POST HTTP/1.1
