@@ -3,6 +3,8 @@
 	- ((61f26e61-b838-4564-8018-dfa8038a9c69))
 	- ((61f51785-e5fb-494f-8716-6f62cc89116b))
 	- [[常见问题]]
+	- ((62185d56-05fe-4668-bb79-7de797263793))
+	- ((62185d56-797d-43e2-943e-216e05690c0a))
 - # 简悦手册
   id:: 61f26e61-b838-4564-8018-dfa8038a9c69
 	- [[简悦介绍]]
@@ -43,8 +45,23 @@
 		- [[收藏助手]]
 		  id:: 61f6701e-13ea-416f-b1a5-d8aec5624d16
 	- [[API]]
-		- [[API工具]]
 		- [[API快照]]
+		- [[API工具]]
 		- [[API平台]]
 		- [[API测试]]
 	- ((61f764a4-b8be-4698-a3db-8663247468c3))
+- # 其它形式的教程
+  id:: 62185d56-05fe-4668-bb79-7de797263793
+	- [语雀上的教程备份](https://www.yuque.com/kenshin/simpread)
+	- [可视化教程](https://www.plectica.com/maps/7JSFSNTQW)
+	- [Workflowy](https://workflowy.com/s/22/iDn82ReW7Neki2oW#/116c4d504937)
+- # 相关平台
+  id:: 62185d56-797d-43e2-943e-216e05690c0a
+	- [官网](http://simpread.pro/)
+	- [下载中心](http://simpread.pro/download)
+	- [购买地址](http://simpread.pro/price)
+	- [帮助中心](http://simpread.pro/help)
+	- [知识库](http://simpread.pro/kb)
+	- [文档中心](http://simpread.pro/docs)
+	- [简悦百科](http://simpread.pro/wiki)
+	- [QA平台](https://github.com/kenshin/simpread/issues)
