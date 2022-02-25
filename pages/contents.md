@@ -49,6 +49,7 @@
 		- [[API工具]]
 		- [[API平台]]
 		- [[API测试]]
+		- [API联动方案](https://github.com/Kenshin/simpread/discussions?discussions_q=label%3Aapi)
 	- ((61f764a4-b8be-4698-a3db-8663247468c3))
 - # 其它形式的教程
   id:: 62185d56-05fe-4668-bb79-7de797263793
