@@ -27,10 +27,14 @@ alias:: tools
 id:: 61f63f40-a4e7-496e-99bc-45395f8561e0
 	- > 开发者来自社区的 [Easycat 废柴](https://t.me/Orz_3_s_father)。
 	- ## 说明
-		- 在 iOS 系统上，通过分享给快捷指令，保存到你的稍后读，暂不支持 [[API快照]] 。
-	- ## 如何使用
+		- 在 iOS 系统上，通过分享给快捷指令，保存到你的稍后读。
+	- ## 不支持 [[API快照]]
 		- [快速添加到简悦](https://www.icloud.com/shortcuts/0ffc62f9bf7c419ab1e769ab89a10fde)
 		- [完整添加到简悦](https://www.icloud.com/shortcuts/5362ad74759f4e5fae5f48e3ec92a5f8)
+	- ## 支持快照版
+		- > 关于此功能的详细说明 [请看这里](https://zhuanlan.zhihu.com/p/504650351)。
+		- [快速添加到简悦](https://www.icloud.com/shortcuts/10bafe20900b4740ab7721aad0c56258)
+		- [完整添加到简悦](https://www.icloud.com/shortcuts/b69cf018e84b4e1da19d523ff771c584)
 - # Popclip 插件
   id:: 61f63f40-147b-40c6-be95-68c6c41a3d68
 	- > 开发者来自社区的 [lyserenity](https://t.me/lyserenity)。
