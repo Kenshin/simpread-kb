@@ -33,8 +33,8 @@ id:: 61f63f40-a4e7-496e-99bc-45395f8561e0
 		- [完整添加到简悦](https://www.icloud.com/shortcuts/5362ad74759f4e5fae5f48e3ec92a5f8)
 	- ## 支持快照版
 		- > 关于此功能的详细说明 [请看这里](https://zhuanlan.zhihu.com/p/504650351)。
-		- [快速添加到简悦](https://www.icloud.com/shortcuts/10bafe20900b4740ab7721aad0c56258)
-		- [完整添加到简悦](https://www.icloud.com/shortcuts/b69cf018e84b4e1da19d523ff771c584)
+		- [快速添加到简悦](https://www.icloud.com/shortcuts/31bf1d96b2f7479d93679eb0e36c762c)
+		- [完整添加到简悦](https://www.icloud.com/shortcuts/a45ce1c801dd45709a636d90297fd97f)
 - # Popclip 插件
   id:: 61f63f40-147b-40c6-be95-68c6c41a3d68
 	- > 开发者来自社区的 [lyserenity](https://t.me/lyserenity)。
