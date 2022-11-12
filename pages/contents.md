@@ -7,32 +7,15 @@
 	- ((62185d56-797d-43e2-943e-216e05690c0a))
 - # 简悦手册
   id:: 61f26e61-b838-4564-8018-dfa8038a9c69
-	- [[简悦介绍]]
-	- 教程
-		- [[绑定高级账户]]
-		- [[配置同步助手]]
-	- 配置导出
-		- [[增强导出]]
-		- [[定制化导出功能]]
-	- [[配置文件及其同步]]
-		- [[配置文件的同步]]
-		- [[多种同步方案]]
-		- [[多设备同步方案]]
-	- [[建立知识库]]
-		- [[配置稍后读]]
-		- [[配置标注]]
-		- [[配置永久链接]]
-	- [[建立资料库]]
-		- ((61f51785-6dbf-47c0-9934-94caffd6c99f))
-		  id:: 61f4ef91-0569-44d4-8693-4f7d03fae548
-		- ((61f51785-8777-4993-9eb9-183b99b5fdf8))
-		  id:: 61f4ef91-e0be-4554-a69a-2cec69e722d7
-		- ((61f51785-4264-4028-8d3c-b175e84ed621))
-	- 其它配置
-		- [[配置授权登录]]
-		- [[每日回顾]]
-		- [[免密码登录]]
-	- ((61f765c0-29d0-433d-b1b9-2483e0dd7f33))
+	- #+BEGIN_NOTE
+	  👋
+	  
+	  这里的简悦手册已经全部合并到了 [语雀](https://www.yuque.com/kenshin/simpread) 上面，这里的内容主要为 ((61f51785-e5fb-494f-8716-6f62cc89116b)) 服务。
+	  
+	  以下链接是语雀手册比较重要的内容。
+	  #+END_NOTE
+	- [一站式教程](https://www.yuque.com/kenshin/simpread/pn4bbg)
+	- [配置库](https://www.yuque.com/kenshin/simpread/ds8zk0)
 - # 开放平台
   id:: 61f51785-e5fb-494f-8716-6f62cc89116b
 	- [[开放平台介绍]]
@@ -50,19 +33,23 @@
 		- [[API平台]]
 		- [[API测试]]
 		- [API联动方案](https://github.com/Kenshin/simpread/discussions?discussions_q=label%3Aapi)
+	- 其它相关
+		- [[资料库]]
+		- [[永久链接]]
+		- [[免密码登录]]
 	- ((61f764a4-b8be-4698-a3db-8663247468c3))
 - # 其它形式的教程
   id:: 62185d56-05fe-4668-bb79-7de797263793
-	- [语雀上的教程备份](https://www.yuque.com/kenshin/simpread)
 	- [可视化教程](https://www.plectica.com/maps/7JSFSNTQW)
 	- [Workflowy](https://workflowy.com/s/22/iDn82ReW7Neki2oW#/116c4d504937)
 - # 相关平台
   id:: 62185d56-797d-43e2-943e-216e05690c0a
-	- [官网](http://simpread.pro/)
-	- [下载中心](http://simpread.pro/download)
-	- [购买地址](http://simpread.pro/price)
-	- [帮助中心](http://simpread.pro/help)
-	- [知识库](http://simpread.pro/kb)
-	- [文档中心](http://simpread.pro/docs)
-	- [简悦百科](http://simpread.pro/wiki)
+	- [官网](https://simpread.pro/)
+	- [下载中心](https://simpread.pro/download)
+	- [购买地址](https://simpread.pro/price)
+	- [帮助中心](https://simpread.pro/help)
+	- [知识库](https://simpread.pro/kb)
+	- [文档中心](https://simpread.pro/docs)
+	- [订阅中心]([http://simpread.pro/docs](http://simpread.pro/subscribe))
+	- [简悦百科](https://simpread.pro/wiki)
 	- [QA平台](https://github.com/kenshin/simpread/issues)
