@@ -23,8 +23,8 @@ alias:: tools
 		- 添加 [@simpread_bot](https://t.me/simpread_bot)
 		- 使用 `/token xxxx` 来绑定你的 Token ((61f4e352-67e3-4ada-82c9-e8c9b1f30bcd))
 		- 发送包含 URLs 的内容给它，它就会自动帮你整理到网盘。
-# 快捷指令
-id:: 61f63f40-a4e7-496e-99bc-45395f8561e0
+- # 快捷指令
+  id:: 61f63f40-a4e7-496e-99bc-45395f8561e0
 	- > 开发者来自社区的 [Easycat 废柴](https://t.me/Orz_3_s_father)。
 	- ## 说明
 		- 在 iOS 系统上，通过分享给快捷指令，保存到你的稍后读。
@@ -55,16 +55,16 @@ id:: 61f63f40-a4e7-496e-99bc-45395f8561e0
 		- [Quicker 官方](https://getquicker.net/Sharedaction?code=6bdc2ec2-026d-44d2-c3a3-08d908802222)
 	- ## 如何使用
 		- ![](https://files.getquicker.net/_actionDemos/6bdc2ec2-026d-44d2-c3a3-08d908802222/10.gif)
-# 如何选择
-
-> 目前基于简悦 API 的工具基本上涵盖了大部分的场景，这里有个简单的表格来区别这些工具的具体使用场景。
-
-|              | iOS  | Android | Mac  | Windows | 可多选 | 描述                                    |
-| ------------ | ---- | ------- | ---- | ------- | ------ | --------------------------------------- |
-| Telegram Bot | •    | •       | •    | •       | •      | 发送给 bot 的内容如果包含 URLs          |
-| Popclip 插件 |      |         | •    |         | •      | 在 Mac 上任意划取的内容                 |
-| Quicker      |      |         |      | •       |        | 在 Windows 上通过点击任意 URL → Quicker |
-| iOS 快捷指令 | •    |         |      |         |        | 在 iOS 在任意 App 分享到快捷指令        |
+- # 如何选择
+  
+  > 目前基于简悦 API 的工具基本上涵盖了大部分的场景，这里有个简单的表格来区别这些工具的具体使用场景。
+  
+  |              | iOS  | Android | Mac  | Windows | 可多选 | 描述                                    |
+  | ------------ | ---- | ------- | ---- | ------- | ------ | --------------------------------------- |
+  | Telegram Bot | •    | •       | •    | •       | •      | 发送给 bot 的内容如果包含 URLs          |
+  | Popclip 插件 |      |         | •    |         | •      | 在 Mac 上任意划取的内容                 |
+  | Quicker      |      |         |      | •       |        | 在 Windows 上通过点击任意 URL → Quicker |
+  | iOS 快捷指令 | •    |         |      |         |        | 在 iOS 在任意 App 分享到快捷指令        |
 - # 关联
 	- [[开通开放平台]]
 	- [[收藏助手]]
